@@ -29,6 +29,8 @@ if __name__ == "__main__":
 
     print("start test")
 
+    print("MID test")
+
 
 
     print("end test")
