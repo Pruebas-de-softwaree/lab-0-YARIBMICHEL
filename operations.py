@@ -32,6 +32,12 @@ if __name__ == "__main__":
     print("MID test")
 
 
+    print("MID test 2")
+
+
+
+
+
 
     print("end test")
 
