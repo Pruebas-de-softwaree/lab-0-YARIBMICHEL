@@ -29,10 +29,15 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print("MID test")
+    print(add(2,3))
+    print(add(7,2))
+    print(subtract(9,3))
+    print(multiply(7,2))
+    print(divide(6,0)) #error, no se divide entre 0
 
 
     print("MID test 2")
+
 
 
 
