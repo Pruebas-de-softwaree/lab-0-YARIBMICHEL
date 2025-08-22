@@ -34,7 +34,8 @@ if __name__ == "__main__":
     print(subtract(9,3))
     print(multiply(7,2))
     #print(divide(6,0)) #error, no se divide entre 0
-    print(power(2,0)) #error, cualquier numero a la potencia 0 es 1
+    #print(power(2,0)) #error, cualquier numero a la potencia 0 es 1
+    print(square_root(-100))# no hay raices negativas
 
 
     print("MID test 2")
