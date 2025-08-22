@@ -33,7 +33,8 @@ if __name__ == "__main__":
     print(add(7,2))
     print(subtract(9,3))
     print(multiply(7,2))
-    print(divide(6,0)) #error, no se divide entre 0
+    #print(divide(6,0)) #error, no se divide entre 0
+    print(power(2,0)) #error, cualquier numero a la potencia 0 es 1
 
 
     print("MID test 2")
